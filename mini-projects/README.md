@@ -1,3 +1,3 @@
-# mini_projects
+# mini-projects
 
-A collection if smaller, in-class projects. 
+A collection of smaller, in-class projects. 
